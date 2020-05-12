@@ -1,0 +1,12 @@
+{
+    "ID": "67389bfd7f8a4b728ea7eb662d6f0e76",
+    "ActionKeyword": "switch",
+    "Name": "SwitchCase",
+    "Description": "Switch letter Case.",
+    "Author": "Zeroto521",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Zeroto521/Wox.Plugin.SwitchCase",
+    "IcoPath": "assets/favicon.ico",
+    "ExecuteFileName": "main.py"
+}
